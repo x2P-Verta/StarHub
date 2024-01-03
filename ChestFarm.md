@@ -1,4 +1,4 @@
-# * Best Chest Farm By Star Hub *
+# Best Chest Farm By Star Hub 
 
 ```lua
 getgenv().Config = {
